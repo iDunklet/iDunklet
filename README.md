@@ -14,7 +14,7 @@ Today, I'm focused on becoming a **Back-End Developer**, building REST APIs, exp
 
 I enjoy understanding not only **how code works, but why it works that way**.
 
-- 🔭 Currently working on **cloudops-platform**, a REST API built with TypeScript and Express.
+- 🔭 Currently working on **cloudops-platform**.
 - 🌱 Learning **AWS, DynamoDB, Lambda and serverless architecture**.
 - ☕ Building backend applications with **Java and Spring Boot**.
 - 🗄️ Working with relational databases such as **PostgreSQL and MySQL**.
